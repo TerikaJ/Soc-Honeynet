@@ -4,9 +4,9 @@
 ![Cloud Honeynet / SOC](https://i.imgur.com/ZWxe03e.jpg)
 
 ## Introduction
+In this project, I constructed a mini honeynet in Azure, integrating log sources from various resources into a Log Analytics workspace. This data was utilized by Microsoft Sentinel to build attack maps, trigger alerts, and create incidents. I measured security metrics in the initial, unsecured environment for 24 hours, then applied security controls to harden the environment, followed by another 24-hour measurement period. The results of these metrics, which are detailed below, demonstrate the impact of the applied security controls:
 
-In this project, I build a mini honeynet in Azure and ingest log sources from various resources into a Log Analytics workspace, which is then used by Microsoft Sentinel to build attack maps, trigger alerts, and create incidents. I measured some security metrics in the insecure environment for 24 hours, apply some security controls to harden the environment, measure metrics for another 24 hours, then show the results below. The metrics we will show are:
-
+The metrics we will show are:
 - SecurityEvent (Windows Event Logs)
 - Syslog (Linux Event Logs)
 - SecurityAlert (Log Analytics Alerts Triggered)
@@ -51,8 +51,9 @@ For the "AFTER" metrics, Network Security Groups were hardened by blocking ALL t
 ## Metrics Before Hardening / Security Controls
 
 The following table shows the metrics we measured in our insecure environment for 24 hours:
-Start Time 2024-05-29 19:56:02
-Stop Time 2024-05-30 19:56:02
+
+**Start Time 2024-05-29 19:56:02**
+**Stop Time 2024-05-30 19:56:02**
 
 | Metric                   | Count
 | ------------------------ | -----
@@ -84,9 +85,10 @@ Stop Time 2024-05-30 19:56:02
 
 ## Metrics After Hardening / Security Controls
 
-The following table shows the metrics we measured in our environment for another 24 hours, but after we have applied security controls:
-Start Time 2024-05-30 19:55:14
-Stop Time	2024-05-31 19:55:14
+The following table displays the metrics we measured in our environment for another 24 hours, but after the application of security controls:
+
+**Start Time 2024-05-30 19:55:14**
+**Stop Time	2024-05-31 19:55:14**
 
 | Metric                   | Count
 | ------------------------ | -----
