@@ -64,7 +64,9 @@ The following table displays the metrics we measured in the insecure environment
 | AzureNetworkAnalytics_CL | 2192
 
 
-## Azure Sentinel After Hardening / Security Controls
+## MS Sentinel After Hardening / Security Controls
+Microsoft Sentinel is important for monitoring and securing cloud environments. It provides tools to detect and respond to security threats across the organization. By collecting and analyzing data, it helps identify potential issues and offers solutions to improve security. This tool helps protect sensitive information and ensures that the organization stays secure and compliant with industry standards.
+
 <img width="1488" alt="MS Sentinel Incidents AFTER" src="https://github.com/TerikaJ/Soc-Honeynet/assets/136477450/46805b22-6699-410d-87ef-33dfa7ae536c">
 
 ## NIST 800-53 Cybersecurity Framework 
