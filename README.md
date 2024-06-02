@@ -2,7 +2,7 @@
 ![68747470733a2f2f692e696d6775722e636f6d2f5a5778653033652e6a7067](https://github.com/TerikaJ/Soc-Honeynet/assets/136477450/bc037cb5-677a-41b6-9389-724559b80b06)
 
 
-## Introduction 🛡️💻
+## 🛡️ Introduction 🛡️
 In this project, I constructed a mini honeynet in Azure, integrating log sources from various resources into a Log Analytics workspace. This data was utilized by Microsoft Sentinel to build attack maps, trigger alerts, and create incidents. I measured security metrics in the initial, unsecured environment for 24 hours, then applied security controls to harden the environment, followed by another 24-hour measurement period. The results of these metrics, which are detailed below, demonstrate the impact of the applied security controls:
 
 The metrics we will show are:
