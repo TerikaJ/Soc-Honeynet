@@ -1,5 +1,5 @@
 # Building a SOC + Honeynet in Azure (Live Traffic) :honey_pot: :lock: 
-![Cloud Honeynet / SOC](https://i.imgur.com/ZWxe03e.jpg)
+![241914374-85dc5588-8bde-45a0-b7f4-230116331359](https://github.com/TerikaJ/Soc-Honeynet/assets/136477450/cfc9c0cb-6c93-4fdc-a8b1-91b741468e00)
 
 ## Introduction
 In this project, I constructed a mini honeynet in Azure, integrating log sources from various resources into a Log Analytics workspace. This data was utilized by Microsoft Sentinel to build attack maps, trigger alerts, and create incidents. I measured security metrics in the initial, unsecured environment for 24 hours, then applied security controls to harden the environment, followed by another 24-hour measurement period. The results of these metrics, which are detailed below, demonstrate the impact of the applied security controls:
