@@ -69,6 +69,10 @@ The following table displays the metrics we measured in the insecure environment
 ## Azure Sentinel After Hardening / Security Controls
 <img width="1488" alt="MS Sentinel Incidents AFTER" src="https://github.com/TerikaJ/Soc-Honeynet/assets/136477450/46805b22-6699-410d-87ef-33dfa7ae536c">
 
+## NIST 800-53 Cybersecurity Framework 
+![info-3-1](https://github.com/TerikaJ/Soc-Honeynet/assets/136477450/2897197e-3eda-44ea-baff-c8466ee3df3b)
+
+The NIST 800-53 framework is essential for ensuring comprehensive cybersecurity and risk management within an organization. It provides a catalog of security and privacy controls designed to protect information systems and organizations from diverse threats. By adhering to these guidelines, organizations can implement robust security measures that safeguard sensitive data, enhance operational resilience, and comply with regulatory requirements. The framework’s structured approach helps in identifying and mitigating risks, thus fostering a secure and trustworthy environment for digital operations.
 
 ## MS Defender for Cloud After NIST SP 800 53 R5 Regulatory Compliance Application
 <img width="1494" alt="NIST" src="https://github.com/TerikaJ/Soc-Honeynet/assets/136477450/a4d2969e-130e-4b4e-9e86-92b566c24dc6">
