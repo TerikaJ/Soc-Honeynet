@@ -75,6 +75,11 @@ The following table displays the metrics we measured in the insecure environment
 The NIST 800-53 framework is essential for ensuring comprehensive cybersecurity and risk management within an organization. It provides a catalog of security and privacy controls designed to protect information systems and organizations from diverse threats. By adhering to these guidelines, organizations can implement robust security measures that safeguard sensitive data, enhance operational resilience, and comply with regulatory requirements. The framework’s structured approach helps in identifying and mitigating risks, thus fostering a secure and trustworthy environment for digital operations.
 
 ## MS Defender for Cloud After NIST SP 800 53 R5 Regulatory Compliance Application
+![defender-for-cloud-pillars](https://github.com/TerikaJ/Soc-Honeynet/assets/136477450/f099ee79-833f-4437-913f-2ad20d41383d)
+
+Microsoft Defender for Cloud is a critical tool for enhancing the security posture of cloud environments. It provides unified security management and advanced threat protection across hybrid cloud workloads, helping organizations to detect, prevent, and respond to security threats. By continuously assessing the security state of resources, Microsoft Defender for Cloud offers actionable recommendations and automates security best practices. This proactive approach not only safeguards sensitive data but also ensures compliance with industry standards, thereby enhancing overall operational resilience and trust in cloud infrastructure.
+
+
 <img width="1494" alt="NIST" src="https://github.com/TerikaJ/Soc-Honeynet/assets/136477450/a4d2969e-130e-4b4e-9e86-92b566c24dc6">
 
 <img width="1340" alt="MS Defender" src="https://github.com/TerikaJ/Soc-Honeynet/assets/136477450/283e2ef2-bbbb-4201-9a52-10a8dd1b287f">
