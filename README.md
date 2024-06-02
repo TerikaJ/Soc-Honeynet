@@ -127,4 +127,10 @@ In this project, I constructed a mini honeynet in Microsoft Azure and integrated
 
 It is important to note that if the network resources had been heavily utilized by regular users, more security events and alerts might have been generated within the 24-hour period following the implementation of the security controls.
 
+<h1><p align=center> DONE! Good job! </p></h1>
+
+<h2><p align=center>The Next Demonstration:<br><a href="https://github.com/terikaj/medical-encryption"> The Digital Data Guardian for Medical Record Encryption </a></p></h2>
+
+<p align=right> Please delete & clean up your Azure resources when finished!<br>
+If you're unsure of how to do this, please click <a href="https://github.com/terikaj/azure-begin?tab=readme-ov-file">HERE</a>
 
